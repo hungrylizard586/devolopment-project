@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://hungrylizard586.github.io/devolopment-project/
 
 ### Goal and Value of the Application
 The goal of the application is to create a functioning web app that lets you see courses offered at brown. The value of the app is that is tells the user all the basic necessary information about the app.
