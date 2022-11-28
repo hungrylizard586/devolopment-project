@@ -1,0 +1,122 @@
+[
+    {
+      "class": "CSCI0330",
+      "name": "Introduction to Computer Systems",
+      "department": "Computer Science",
+      "time": "2-2:50 MWF",
+      "mins": 150,
+      "enrollment": 150,
+      "professor": "Tom Doeppner",
+      "image": "images/twd-uiux.jpg"
+    },
+    {
+        "class": "APMA1210",
+        "name": "Operations Research: Deterministic Models",
+        "department": "Applied Math",
+        "time": "1-2:20 TTh",
+        "mins": 160,
+        "enrollment": 90,
+        "professor": "Peyam Tabrizian",
+        "image": "images/peyam-uiux.jpg"
+    },
+    {
+        "class": "BIOL0210",
+        "name": "Diversity of Life",
+        "department": "Biology",
+        "time": "12-12:50 MWF",
+        "mins": 150,
+        "enrollment": 390,
+        "professor": "James R. Kellner",
+        "image": "images/james-uiux.jpg"
+    },
+    {
+        "class": "MUSC0400A",
+        "name": "Introduction to Music Theory",
+        "department": "Music",
+        "time": "12-12:50 MWF",
+        "mins": 150,
+        "enrollment": 40,
+        "professor": "Andrew Jonathan Welch",
+        "image": "images/andrew-uiux.jpg"
+    },
+    {
+        "class": "BIOL0530",
+        "name": "Principles of Immunology",
+        "department": "Biology",
+        "time": "2:30-3:50 TTh",
+        "mins": 160,
+        "enrollment": 100,
+        "professor": "Aisling S Dugan",
+        "image": "images/aisling-uiux.jpg"
+    },
+    {
+        "class": "CSCI0150",
+        "name": " Introduction to Object-Oriented Programming and Computer Science",
+        "department": "Computer Science",
+        "time": "2:30-3:50 TTh",
+        "mins": 160,
+        "enrollment": 400,
+        "professor": "Andy Van Dam",
+        "image": "images/andy-uiux.jpg"
+    },
+    {
+        "class": "APMA1650",
+        "name": "Statistical Inference I",
+        "department": "Applied Math",
+        "time": "2-2:50 MWF",
+        "mins": 150,
+        "enrollment": 150,
+        "professor": "Nidhi Kaihnsa",
+        "image": "images/nidhi-uiux.jpg"
+    },
+    {
+        "class": "MUSC0200",
+        "name": "Computers and Music",
+        "department": "Music",
+        "time": "1-2:20 TTh",
+        "mins": 160,
+        "enrollment": 90,
+        "professor": "Todd E Winkler",
+        "image": "images/todd-uiux.jpg"
+    },
+    {
+        "class": "BIOL0380",
+        "name": "The Ecology and Evolution of Infectious Disease",
+        "department": "Biology",
+        "time": "2:30-3:50 TTh",
+        "mins": 160,
+        "enrollment": 60,
+        "professor": "Kelsey Witt Dillon",
+        "image": "images/kelsey-uiux.jpg"
+    },
+    {
+        "class": "CSCI1300",
+        "name": "User Interfaces and User Experience",
+        "department": "Computer Science",
+        "time": "1-2:20 TTh",
+        "mins": 160,
+        "enrollment": 350,
+        "professor": "Jeff Huang",
+        "image": "images/jeff-uiux.jpg"
+    },
+    {
+        "class": "MUSC0400B",
+        "name": "Introduction to Popular Music Theory and Songwriting",
+        "department": "Music",
+        "time": "2-2:50 MWF",
+        "mins": 150,
+        "enrollment": 40,
+        "professor": "Ivan Tan",
+        "image": "images/ivan-uiux.jpg"
+    },
+    {
+        "class": "APMA0350",
+        "name": "Applied Ordinary Differential Equations",
+        "department": "Applied Math",
+        "time": "12-12:50 MWF",
+        "mins": 150,
+        "enrollment": 250,
+        "professor": "Peyam Tabrizian",
+        "image": "images/peyam-uiux.jpg"
+    }
+  ]

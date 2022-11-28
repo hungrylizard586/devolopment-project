@@ -1,7 +1,31 @@
 .App {
   text-align: center;
+  
 }
 
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.item{
+  padding-left: 2%;
+}
+#dataPoints{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 75%;
+  justify-content: flex-end;
+ 
+}
+.ClassItem{
+  width: 30rem;
+  border-style: solid;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +60,9 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width:100px;
+  height: 150px;
+}
+
